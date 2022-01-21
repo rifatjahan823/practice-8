@@ -1,0 +1,91 @@
+.color{
+    color: #FABE4C;
+}
+header{
+    background-color:#f8eed3;
+    padding-top: 20px;
+    padding-bottom:500px ;
+}
+.header-main h1{
+    font-size: 65px;
+line-height: 96px;
+}
+.header-main p{
+    font-size: 16px;
+line-height: 26px;
+color: #3E3E3E;
+margin: 5% 0;
+}
+.nav-item{
+ margin-right: 40px;
+}
+.nav-link {
+    color: black!important;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+}
+.active{
+    border-bottom: 2px solid #85A019;
+}
+.nav-link:hover{
+    border-bottom: 2px solid #85A019;
+}
+.btn{
+    background-image: linear-gradient(#A4BC46,
+    #85A019);
+    color: white;
+    text-transform: capitalize;
+    width: 130px;
+   border: 2px solid transparent;
+    font-size:16px;
+}
+.btn i{
+    margin-right: 3%;
+}
+.btn:hover{
+    border: 2px solid #85A019;
+    background: transparent;
+}
+/* women jacket area */
+.women-jacket{
+    margin-top: -35%;
+    margin-bottom:10% ;
+}
+.women-area{
+    padding: 10px;
+    box-shadow: 1px 1px 3px 1px black;
+    border-radius: 20px;
+}
+.shopping-area h2{
+    color: #363958;
+    font-size: 48px;
+line-height: 58px;
+margin-bottom:40px ;
+text-transform:uppercase;
+}
+.img{
+    background-color:#F1F1F1;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 17px;
+    text-align: center;
+    padding-top: 5px
+}
+.women-description h4{
+    color: #363958;
+    font-size: 24px;
+}
+.women-description p {
+    margin-top: 13px;
+    margin-bottom:20px;
+    color: #3E3E3E;
+    font-size: 16px;
+    line-height: 26px;
+}
+/* shoping filter area */
+.shopping-filter{
+    padding: 120px 0;
+}
+.cart{
+    box-shadow: 1px 1px 3px 1px;
+}
