@@ -11,7 +11,7 @@ body{
 header{
     background-color:#f8eed3;
     padding-top: 20px;
-    padding-bottom:500px ;
+    padding-bottom:40px ;
 }
 .header-main h1{
     font-size: 90px;
@@ -57,8 +57,8 @@ margin: 5% 0;
 }
 /* women jacket area */
 .women-jacket{
-    margin-top: -35%;
     margin-bottom:10% ;
+    padding-top: 70px;
 }
 .women-area{
     padding: 10px;
@@ -104,8 +104,3 @@ text-transform:uppercase;
     box-shadow: 1px 1px 3px 1px;
 }
 
-@media (max-width:766px) {
-    .women-jacket{
-        margin-top: -75%
-    }
-}
